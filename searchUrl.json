@@ -4,7 +4,7 @@
       "id": 1,
       "name": "极品影视",
       "url": "https://www.jpysvip.net/api.php/provide/vod/at/xml",
-      "cate": "综艺,3&&动漫,4&&动作片，6&&恐怖片，10",
+      "cate": "综艺,3&&动漫,4&&动作片,6&&恐怖片,10",
       "click": true
     },
     {
